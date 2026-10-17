@@ -1,4 +1,4 @@
-#sweet and holy basil image clssification
+# sweet and holy basil image clssification
 Data in folder
-#Classification
+# Classification
 Classification with machine learning model
